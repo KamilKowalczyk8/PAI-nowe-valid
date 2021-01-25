@@ -1,0 +1,61 @@
+ body{
+        background-color:  #C8D3D5;
+     }
+#naglowek{
+    color:#363946;
+margin: 10px;
+width: 606px;
+height: 670px;
+
+ position: absolute;
+    right: 640px;
+    top: 50px;
+    background-color: #FCFAFA;
+}
+     #kreska1{
+         border: 2px solid darkgray;
+         width: 160px;
+height: 0px;
+          position: absolute;
+         right: 47px;
+    top: 55px;
+     }
+     #kreska2{
+         border: 2px solid darkgray;
+         width: 160px;
+height: 0px;
+          position: absolute;
+         right: 400px;
+    top: 55px;
+     }
+     #wynik{
+margin: 10px;
+width: 300px;
+height: 310px;
+border: 2px solid black;
+     }
+     .but{
+         height:60px;
+         width:305px;
+         color:white;
+         background-color: #20BF55;
+         font-size: 17px;
+         border-radius: 10px;
+     }
+     input{
+         width:305px;
+         height: 30px;
+     }
+      .check{
+         width:15px;
+          height: 15px;
+     }
+     .but:hover{
+        height:60px;
+         width:305px;
+         color:black;
+         background-color: darkgray;
+    
+         border: 1px solid black;
+         font-size: 17px;
+     }
